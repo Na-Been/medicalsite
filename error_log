@@ -1,0 +1,5 @@
+[02-Apr-2021 06:26:24 UTC] PHP Parse error:  syntax error, unexpected ':', expecting '{' in /home/mediaids/public_html/mediaid/vendor/symfony/polyfill-php80/bootstrap.php on line 23
+[04-Apr-2021 04:58:47 UTC] PHP Warning:  Unsupported declare 'strict_types' in /home/mediaids/public_html/mediaid/vendor/phpunit/phpunit/src/Framework/Assert/Functions.php on line 1
+[04-Apr-2021 04:58:47 UTC] PHP Fatal error:  Default value for parameters with a class type hint can only be NULL in /home/mediaids/public_html/mediaid/vendor/phpunit/phpunit/src/Framework/Assert/Functions.php on line 89
+[04-Apr-2021 05:08:44 UTC] PHP Warning:  Unsupported declare 'strict_types' in /home/mediaids/public_html/mediaid/vendor/phpunit/phpunit/src/Framework/Assert/Functions.php on line 1
+[04-Apr-2021 05:08:44 UTC] PHP Fatal error:  Default value for parameters with a class type hint can only be NULL in /home/mediaids/public_html/mediaid/vendor/phpunit/phpunit/src/Framework/Assert/Functions.php on line 89
